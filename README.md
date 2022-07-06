@@ -3,7 +3,6 @@
 
 ## I'm a Full Stack Developer
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on C#, HTML, CSS and JavaScript
 - 🌱 I’m currently learning React.js
