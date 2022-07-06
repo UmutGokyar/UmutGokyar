@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other FullStack Developer
 - 📫 How to reach me: 
    gokyarumut@gmail.com 
-   
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/umutgokyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghf" height="30" width="40" /></a>
 <a href="https://fb.com/gfh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gfh" height="30" width="40" /></a>
 </p>
 
