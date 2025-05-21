@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate with other FullStack Developer
 - 📫 How to reach me: 
-   gokyarumut@gmail.com 
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
